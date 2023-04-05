@@ -1,0 +1,20 @@
+{
+    "name": "clone-tabnews",
+    "version": "1.0.0",
+    "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
+    "main": "tabnews.js",
+    "scripts": {
+        "dev": "next dev"
+    },
+    "keywords": [
+        "tabnews",
+        "curso.dev"
+    ],
+    "author": "Lucas Mantuan",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^13.1.6",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}
